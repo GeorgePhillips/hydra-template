@@ -27,7 +27,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 # Easy Deploy
 Click the button below to deploy to CloudCannon. Sync, Build, Edit and Host in under a minute:
 
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://dev-app.cloudcannon.com/setup?repository=https://github.com/CloudCannon/hydra-jekyll-template)
+[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://dev-app.cloudcannon.com/setup?repository=https://github.com/GeorgePhillips/hydra-template)
 
 
 ## Setup
